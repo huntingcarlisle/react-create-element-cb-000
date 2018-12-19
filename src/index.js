@@ -1,5 +1,6 @@
 // Code goes here
 import React from 'react';
+<<<<<<< HEAD
 import ReactDOM from 'react-dom';
 
 const title = React.createElement('h1', {}, 'My First React Code');
@@ -10,3 +11,5 @@ ReactDOM.render(
   container,
   document.getElementById('global')
   );
+=======
+>>>>>>> ac74d407f6ceaf4f8b57c65047e93937cc02361a
